@@ -1,0 +1,8 @@
+project_id = "hustle"
+
+[functions.notify]
+verify_jwt = false
+
+# Does its own auth (user session, or Paystack webhook signature)
+[functions.payments]
+verify_jwt = false

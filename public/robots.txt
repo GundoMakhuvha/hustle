@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /chat/
+Disallow: /settings
+
+Sitemap: https://hustle.capvtal.com/sitemap.xml
